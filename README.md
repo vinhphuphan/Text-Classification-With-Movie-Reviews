@@ -1,4 +1,4 @@
-# Text-Classification-With-Movie-Reviews
+<h1 align="center"> </a> Text Classification With Movie Reviews Using TensorFlow<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="tensorflow" width="55" height="40"/> </a> </h1>
 
 ## 1. Introduction
 This notebook classifies movie reviews as *positive* or *negative* using the text of the review. This is an example of *binary*—or two-class—classification, an important and widely applicable kind of machine learning problem. 
@@ -22,3 +22,11 @@ The neural network is created by stacking layers—this requires three main arch
 * How many *hidden units* to use for each layer?
 
 In this scenario, the input data consists of sentences. The labels to predict are either 0 or 1. I have tried multiple approach to build the models with different architecture to explore the result.
+
+### Related Projects:question: 👨‍💻 🛰️
+<code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
+
+<code>[Titanic - Machine Learning from Disaster using Python](https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster)</code> 📊
+
+<code>[Living Species Image Classification using Python](https://github.com/vinhphuphan/ImageClassification)</code> 📊
+
