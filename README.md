@@ -23,13 +23,21 @@ The neural network is created by stacking layers—this requires three main arch
 
 In this scenario, the input data consists of sentences. The labels to predict are either 0 or 1. I have tried multiple approach to build the models with different architecture to explore the result.
 
-## 3. Results 
+I have used two models for this project and then compare them. 
 
+The first model uses a pre-trained Saved Model from [TensorFlow Hub](https://www.tensorflow.org/hub) called [google/nnlm-en-dim50/2](https://tfhub.dev/google/nnlm-en-dim50/2) to embed the sentences. 
 
-### 🛠 Technologies and Tools 🛠
+The second one is the model I built from sratch which is that I standardize, tokenize, and vectorize the data using the helpful <code translate="no" dir="ltr">tf.keras.layers.TextVectorization</code> layer.
+
+#### 🛠 Technologies and Tools 🛠
 
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,numpy)](https://skillicons.dev)
 <br>
+
+## 3. Results 
+<p align="center"><img style="align: center;" src="https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews/edit/main/images/Accuracy_plot.png?raw=true" width=400></p>
+<h4 align="center">Figure 2. Training and validation loss of two models</h4>
+
 
 ### Related Projects:question: 👨‍💻 🛰️
 <code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
