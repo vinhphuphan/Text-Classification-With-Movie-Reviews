@@ -38,22 +38,22 @@ The second one is the model I built from sratch which is that I standardize, tok
 I have used the best model to classify the sentiments of some reviews
 
 [**positive**] "This is one of Bruce's most underrated films in my opinion, its an awesome heartwarming film, with a neat story and an amazing performance from Bruce Willis!. All the characters are great, and I thought Willis and Spencer Breslin were just awesome together, plus Bruce Willis is simply amazing in this!...."
-Sentiment Score: [17.677164]
+(Sentiment Score: [17.677164])
 
 [**positive**] "This wonderful movie captures so many elements of what makes a family comedy funny, entertaining, sweet and memorable, it\'s difficult to decide where to start.From the opening number, "Rainbow Connection," Paul Williams\'s excellent score sung with gusto by Kermit D. Frog .... Highly recommended.'
-Sentiment Score: [14.733066]
+(Sentiment Score: [14.733066])
 
 [**positive**] "This is a great German slasher, that's often quite suspenseful, and creative, with a fun story and solid performances. All the characters are cool, and Benno F\xc3\xbcrmann is great as the psycho killer, plus Franka Potente gives a fantastic performance as the main lead....."
-Sentiment Score: [14.462514]
+(Sentiment Score: [14.462514])
 
 [**negative**] "Hollywood has churned out yet another garbage that\'s wildly overhyped and underwhelming on a first-time viewing basis. Hannibal is bad, terrible, inept, lame, droll, idiotic, contrived, laughable and utterly atrocious (no pun intended). Minor spoilers follow...This movie has huge logic holes - more than any Bruckheimer/Bay movie - or for that matter - any movie that exemplify the indulgence of Hollywood exaggeration..."
-Sentiment Score: [-16.826437]
+(Sentiment Score: [-16.826437])
 
 [**negative**] "This is just the same old crap that is spewed from amateur idiots who have no clue how to make a movie--gee maybe that's why it is a straight-to-video wanna-be movie! I guess it is my fault for actually spending money to see it (one of the worst decisions I have ever made). What a waste..."
-Sentiment Score: [-16.771723]
+(Sentiment Score: [-16.771723])
 
-[**negative**] As you can tell from the other comments, this movie is just about the WORST film ever made. Let me see how many different words I can use to describe it: Boring, Unbearable, Laughable, Lousy, Stupid, Horrible.....I could go on with such descriptions but you probably get the point.I would have given this a 0, if possible--bad acting, bad directing, bad production, bad plot.
-Sentiment Score: [-16.768122]
+[**negative**] "As you can tell from the other comments, this movie is just about the WORST film ever made. Let me see how many different words I can use to describe it: Boring, Unbearable, Laughable, Lousy, Stupid, Horrible.....I could go on with such descriptions but you probably get the point.I would have given this a 0, if possible--bad acting, bad directing, bad production, bad plot..."
+(Sentiment Score: [-16.768122])
 
 ## 4. Conclusion
 <p align="center"><img style="align: center;" src="https://raw.githubusercontent.com/vinhphuphan/Text-Classification-With-Movie-Reviews/main/images/Accuracy_plot.png" width=600></p>
