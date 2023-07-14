@@ -23,6 +23,14 @@ The neural network is created by stacking layers—this requires three main arch
 
 In this scenario, the input data consists of sentences. The labels to predict are either 0 or 1. I have tried multiple approach to build the models with different architecture to explore the result.
 
+## 3. Results 
+
+
+### 🛠 Technologies and Tools 🛠
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,numpy)](https://skillicons.dev)
+<br>
+
 ### Related Projects:question: 👨‍💻 🛰️
 <code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
 
